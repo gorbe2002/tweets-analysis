@@ -1,0 +1,13 @@
+.dropdown {
+  display: flex;
+  margin: 20px;
+  font-weight: bold;
+}
+
+.dropdown label {
+  margin-right: 5px;
+}
+
+/* .forceLayout {
+  border: 2px solid black;
+} */
